@@ -18,3 +18,7 @@ Steps:<br />
   f)Create header and input area for the front end<br />
   g)Get response from llama2 model using  input parameters : input text , no_words,blog_style<br />
 
+This is How the app on streamlit looks like : 
+
+[![Picture1.png](https://i.postimg.cc/htQCN8Qy/Picture1.png)](https://postimg.cc/75DM22V0)
+
