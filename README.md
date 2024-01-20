@@ -12,7 +12,7 @@ Steps:<br />
 
   a)Function To get response from LLAma 2 model<br />
   b)Initialize LLama2 model<br />
-  c)Create Prompt Template<br />  
+  c)Create Prompt Template<br />
   d)Generate the response from the LLama 2 model<br />
   e)Now set the page for StreamLit app front end<br /> 
   f)Create header and input area for the front end<br />
