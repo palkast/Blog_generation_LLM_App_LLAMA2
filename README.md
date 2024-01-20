@@ -9,8 +9,9 @@ Steps:<br />
 2.Create environments (venv)<br />
 3.Create requirements.txt file<br /> 
 4.Create app.py (application program to call the model and get response and deploy on StreamLit app)<br />
-  a)Function To get response from LLAma 2 model<br />  
-  b)Initialize LLama2 model<br />  
+
+  a)Function To get response from LLAma 2 model<br />
+  b)Initialize LLama2 model<br />
   c)Create Prompt Template<br />  
   d)Generate the response from the LLama 2 model<br />
   e)Now set the page for StreamLit app front end<br /> 
