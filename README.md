@@ -8,7 +8,7 @@ Steps:<br />
 1.Get acquainted with LLAMA2 model.<br />
 
    a)Selecting Llama-2<br />
-     Among the various open-source Large Language Models (LLMs) such as Llama-2 by Meta, Alpaca, Vicuna, Falcon, and others, each with its own advantages and<br /> 
+     Among the various open-source Large Language Models (LLMs) such as Llama-2 by Meta, Alpaca, Vicuna, Falcon, and others, each with its own advantages and<br />
      drawbacks I've opted for Llama-2 by Meta in this project. It surpasses other open-source LLMs in multiple external benchmarks, including those related to reasoning, 
      coding proficiency, and knowledge tests. Llama-2 is available in three different sizes: 7B, 13B, and 70B parameters. This variety facilitates exploration with smaller 
      models and scalability to larger models based on specific use cases.To download Llama-2 model, first you need to fill in the request form at Meta website<br />.
@@ -41,11 +41,11 @@ We can see, it provides the correct answer with great detail.<br />
 Conclusion-
 This is how Generative Ai solutions can be built using the following technologies :<br />
 
-  *Llama2 Model: The core language model from Meta, providing state-of-the-art natural language processing capabilities.<br />
+  * Llama2 Model: The core language model from Meta, providing state-of-the-art natural language processing capabilities.<br />
 
-  *LangChain: Utilized for seamless integration and communication with the Llama2 model.<br />
+  * LangChain: Utilized for seamless integration and communication with the Llama2 model.<br />
 
-  *Streamlit: is an open-source Python framework for machine learning and data science teams to create interactive data apps in minutes.<br />
+  * Streamlit: is an open-source Python framework for machine learning and data science teams to create interactive data apps in minutes.<br />
 
 
 
