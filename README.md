@@ -8,8 +8,8 @@ Steps:<br />
 1.Get acquainted with LLAMA2 model.<br />
 
    a)Selecting Llama-2<br />
-     Among the various open-source Large Language Models (LLMs) such as Llama-2 by Meta, Alpaca, Vicuna, Falcon, and others, each with its own advantages and<br />
-     drawbacks I've opted for Llama-2 by Meta in this project. It surpasses other open-source LLMs in multiple external benchmarks, including those related to<br /> 
+     Among the various open-source Large Language Models (LLMs) such as Llama-2 by Meta, Alpaca, Vicuna, Falcon, and others, each with its own<br />
+     advantages and drawbacks I've opted for Llama-2 by Meta in this project. It surpasses other open-source LLMs in multiple external benchmarks, including those related to<br /> 
      reasoning,coding proficiency, and knowledge tests. Llama-2 is available in three different sizes: 7B, 13B, and 70B parameters. This variety facilitates<br />
      exploration with smaller models and scalability to larger models based on specific use cases.To download Llama-2 model, first you need to fill in the<br /> 
      request form at Meta website.Additionally downloads are also provided through HuggingFace. However, first Meta request form should be filled with same<br /> 
