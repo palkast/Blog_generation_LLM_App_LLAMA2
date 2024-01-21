@@ -13,9 +13,9 @@ Steps:<br />
      coding proficiency, and knowledge tests. Llama-2 is available in three different sizes: 7B, 13B, and 70B parameters. This variety facilitates exploration with smaller 
      models and scalability to larger models based on specific use cases.To download Llama-2 model, first you need to fill in the request form at Meta website<br />.
      Additionally downloads are also provided through HuggingFace. However, first Meta request form should be filled with same email as HuggingFace account.<br /> 
-     After doing so you can request access to any of the models on Hugging Face and within 1–2 days your account will be granted access to all versions.
+     After doing so you can request access to any of the models on Hugging Face and within 1–2 days your account will be granted access to all versions.<br />
      
-    b)Choosing Quantized Model - Download LLAMA2 model from Hugging face which is less parametrized model : https://huggingface.co/TheBloke/Llama-2-7B-Chat-GGML<br />
+    b)Choosing quantized model to download LLAMA2 model from Hugging face which is less parametrized model : https://huggingface.co/TheBloke/Llama-2-7B-Chat-GGML<br />
     
 2.Create virtual conda python environments (venv). Then activate the conda environment.<br />
 3.Create requirements.txt file<br /> 
