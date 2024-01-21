@@ -9,10 +9,11 @@ Steps:<br />
 
    a)Selecting Llama-2<br />
      Among the various open-source Large Language Models (LLMs) such as Llama-2 by Meta, Alpaca, Vicuna, Falcon, and others, each with its own advantages and<br />
-     drawbacks I've opted for Llama-2 by Meta in this project. It surpasses other open-source LLMs in multiple external benchmarks, including those related to reasoning, 
-     coding proficiency, and knowledge tests. Llama-2 is available in three different sizes: 7B, 13B, and 70B parameters. This variety facilitates exploration with smaller 
-     models and scalability to larger models based on specific use cases.To download Llama-2 model, first you need to fill in the request form at Meta website<br />.
-     Additionally downloads are also provided through HuggingFace. However, first Meta request form should be filled with same email as HuggingFace account.<br /> 
+     drawbacks I've opted for Llama-2 by Meta in this project. It surpasses other open-source LLMs in multiple external benchmarks, including those related to<br /> 
+     reasoning,coding proficiency, and knowledge tests. Llama-2 is available in three different sizes: 7B, 13B, and 70B parameters. This variety facilitates<br />
+     exploration with smaller models and scalability to larger models based on specific use cases.To download Llama-2 model, first you need to fill in the<br /> 
+     request form at Meta website.Additionally downloads are also provided through HuggingFace. However, first Meta request form should be filled with same<br /> 
+     email as HuggingFace account.<br /> 
      After doing so you can request access to any of the models on Hugging Face and within 1–2 days your account will be granted access to all versions.<br />
    b)Choosing quantized model to download LLAMA2 model from Hugging face which is less parametrized model : https://huggingface.co/TheBloke/Llama-2-7B-Chat-GGML<br />
     
@@ -37,7 +38,7 @@ This is How the app on streamlit looks like :<br />
 
 We can see, it provides the correct answer with great detail.<br />
 
-Conclusion-
+Conclusion-<br />
 This is how Generative Ai solutions can be built using the following technologies :<br />
 
   * Llama2 Model: The core language model from Meta, providing state-of-the-art natural language processing capabilities.<br />
